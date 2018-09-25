@@ -32,4 +32,4 @@ Restore succeeded.
 6. cd myApp
 7. run the app-- dotnet run
 8. Should return Hello World!
-9. testing
+9. To save this local repo, after opening the downloaded zip file provided by the .NET docs, I had to use github desktop to import the local folder, create repo(?), then hit the publish button in the upper right hand corner of github desktop.
